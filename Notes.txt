@@ -1,0 +1,49 @@
+Day-1:
+========
+Angular:12  html+css+ts+spec.ts
+
+TypeScirpt:
+===========
+
+HTML:it is used to create static web pages 
+
+	engine:V8  				
+	IE :chakra 
+	firefox:spider monkey
+
+	DOM TREE
+	
+		basic html tags,form tags,table,img,audio,vedio
+		
+		<input type="text" name="uname"/>
+
+CSS:it is used apply styles html tags 
+		selector{propname:propvalue}
+
+JS:<script>
+	var name="nexttech";dynamic typed pl
+		name=123;
+	int id=123;
+		
+			function sayHello(){
+			
+			
+			}
+
+
+TS:static typed programming language
+
+var name:String="day-1";
+		name=123;
+
+
+		
+
+
+
+
+
+
+
+
+
