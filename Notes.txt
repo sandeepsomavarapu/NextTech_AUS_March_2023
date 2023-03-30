@@ -287,9 +287,20 @@ to get Observable
 npm install rxjs
 
 
+Rest API
 
 
-
+	npm install -g json-server
+	
+	json-server --watch data.json
+	
+	
+	localhost:3000/users
+	service
+			HttpClient
+					get,post,put,delete....
+	
+	
 
 
 
